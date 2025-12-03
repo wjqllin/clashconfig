@@ -3,9 +3,12 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,a.cr-001.com
+DOMAIN-SUFFIX,dog.ssrdog.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,ssrdog
+DOMAIN-KEYWORD,cr-001
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
